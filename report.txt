@@ -1,9 +1,0 @@
-Project Report
-
-Version: 1.1
-
-This document describes the updated project setup.
-
-Changes:
-- Improved description of the project
-- Added version tracking
