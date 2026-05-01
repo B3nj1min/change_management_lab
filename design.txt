@@ -1,5 +1,9 @@
 Design Document
 
-Version: 1.0
+Version: 1.1
 
-Initial design of the system.
+Updated design of the system.
+
+Changes:
+- Improved system description
+- Added version tracking
