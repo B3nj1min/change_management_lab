@@ -1,0 +1,5 @@
+Project Report
+
+Version: 1.0
+
+This document describes the initial project setup.
